@@ -1,8 +1,4 @@
 # Docker-Project-Hosting-Apache-webserver
-Sure, let's include the JavaScript file `script.js` in the README as well. Here's the updated README.md:
-
----
-
 # Dockerized Apache Login Page
 
 This repository contains the necessary files to set up a Dockerized Apache web server that serves a simple login page styled with CSS and includes JavaScript for form validation.
